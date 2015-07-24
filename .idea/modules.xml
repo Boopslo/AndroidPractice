@@ -4,12 +4,16 @@
     <modules>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/SQLiteTest.iml" filepath="$PROJECT_DIR$/SQLiteTest.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/FragmentTest.iml" filepath="$PROJECT_DIR$/FragmentTest.iml" />
 >>>>>>> temp/master
 =======
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewPractice.iml" filepath="$PROJECT_DIR$/RecyclerViewPractice.iml" />
+>>>>>>> temp/master
+=======
+      <module fileurl="file://$PROJECT_DIR$/ContentProviderTest.iml" filepath="$PROJECT_DIR$/ContentProviderTest.iml" />
 >>>>>>> temp/master
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

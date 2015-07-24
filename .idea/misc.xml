@@ -4,6 +4,7 @@
     <entry_points version="2.0" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
@@ -29,6 +30,8 @@
       </value>
     </option>
   </component>
+>>>>>>> temp/master
+=======
 >>>>>>> temp/master
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
