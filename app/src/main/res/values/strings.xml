@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nothing_todo">There is nothing to do currently</string>
+    <string name="insert_item">Add item</string>
+    <string name="delete_item">Delete item</string>
+    <string name="todo_type">Type</string>
+    <string name="todo_notes">Notes</string>
+    <string name="todo_details">Details</string>
+
+    <string name="edit_type">Edit type</string>
+    <string name="edit_notes">Edit notes</string>
+    <string name="edite_details">Edit details</string>
+    <string name="title_activity_to_do">ToDoActivity</string>
+
+
+</resources>
