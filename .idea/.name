@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 SQLiteTest
 =======
 FragmentTest
@@ -14,4 +15,7 @@ ContentProviderTest
 >>>>>>> temp/master
 =======
 ToDoList
+>>>>>>> temp/master
+=======
+CompoundViewExample
 >>>>>>> temp/master
